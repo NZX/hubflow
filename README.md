@@ -9,8 +9,8 @@ for [DataSift's HubFlow branching model](http://datasift.github.com/gitflow/), w
 Installation
 ------------
 
-1. `git clone git@github.com:datasift/gitflow.git`
-2. `cd gitflow`
+1. `git clone https://github.com/xuwupeng2000/hubflow`
+2. `cd hubflow`
 3. `sudo ./install.sh`
 
 Windows users will need something like Cygwin in order to use this extension.
